@@ -25,6 +25,9 @@ This voice assistant consist of the following features:
 19. definitions
 20.  system functions
 
+WALKTROUGH
+--------------
+https://www.loom.com/share/5b4ece48588a4c249dc5b90ea8775034
 
 LIBRARIES USED
 ---------------
