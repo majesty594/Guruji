@@ -50,7 +50,7 @@ def wishme():
         speak("Good Evening ")
     else:
         speak("Good Night ")
-    speak("Jarvis at your service. Please tell me how can I help you?")
+    speak("Guruji at your service. Please tell me how can I help you?")
 
 def TakeCommand():
     r = sr.Recognizer()
@@ -89,8 +89,8 @@ def jokes():
     speak(pyjokes.get_joke())
 
 def Introduction():
-    speak("I am JARVIS 1.0 , Personal AI assistant , "
-    "I am created by MAK , "
+    speak("I am GURUJI 1.0 , Personal AI assistant , "
+    "I am created by Majesty , "
     "I can help you in various regards , "
     "I can search for you on the Internet , "
     "I can also grab definitions for you from wikipedia , "
@@ -98,10 +98,10 @@ def Introduction():
     "Where you just have to command me , and I will do it for you , ")
 
 def Creator():
-    speak("MAK is an extra-ordinary person ,"
-    "He has a passion for Robotics, Artificial Intelligence and Machine Learning ,"
+    speak("Majesty is a talented person"
+    "she has a passion for web-development ,"
     "He is very co-operative ,"
-    "If you are facing any problem regarding the 'Jarvis', He will be glad to help you ")
+    "If you are facing any problem regarding the 'Jarvis', she will be glad to help you ")
 
 
 
