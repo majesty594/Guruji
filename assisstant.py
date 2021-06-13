@@ -100,7 +100,7 @@ def cpu():
     speak(battery.percent)
 
 def jokes():
-    speak(pyjokes.get_jokes())
+    speak(pyjoke.get_jokes())
 
 
 
