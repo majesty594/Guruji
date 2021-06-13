@@ -10,4 +10,5 @@ engine.setProperty('rate',newVoiceRate)
 def speak(audio):
     engine.say(audio)
     engine.runAndWait()
+    
 #speak("Hi I am Guruji your virtual assistant")
